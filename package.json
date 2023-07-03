@@ -1,0 +1,22 @@
+{
+  "name": "ideaapp",
+  "version": "1.0.0",
+  "description": "my ideaApp in node, express, mongo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamal725528/IdeaApp.git"
+  },
+  "author": "Kamal Nayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamal725528/IdeaApp/issues"
+  },
+  "homepage": "https://github.com/Kamal725528/IdeaApp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
